@@ -1,16 +1,42 @@
 <body>
   <center>
-  <!-- <img src="https://i.imgur.com/mPdJy1T.png"/>  -->
+<!--   <img src="https://i.imgur.com/mPdJy1T.png"/>  -->
   <img src="https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg"/>
 <br>
 <h2 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ~</h2>
 <div align="center">
+  <p>
+<!--      <img src="https://discord-readme-badge.vercel.app/api?id=1082682332047228928&nothing"/> -->
      <img src="https://lanyard.kyrie25.me/api/1082682332047228928?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </p>
   <br>
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/57/86/da/5786dad6164fcc3fa4d74ba962265ad7.gif" align="right">
+<!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
+  </div>
+<li>
+ <b>Name:</b> Pratykash Baghel
+</li>
+<li>
+<b>Loves:</b> Anime, Books, & Coding
+</li>
+<li>
+<b>Gender:</b> He/Him [also identifies as keyboard]
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Photography, Web Development
+</li>
+<li>
+<b>Currently @:</b> Highschool
+</li>
+<br><br><br>
+</div>
 
 <div>
 <br>
@@ -18,7 +44,6 @@
  <br>
 <p>
   <!-- <div align="center">
-    <img src="https://i.pinimg.com/originals/57/86/da/5786dad6164fcc3fa4d74ba962265ad7.gif" align="right">
   </div> -->
 <!-- </div> -->
 <div>
@@ -39,7 +64,7 @@
 <br>
 <br>
 <!-- Lil ABOUT MY SELF -->
-Apart from this I am good at writing content, video editing, and photography. But not so professional, at hobby level.
+Apart from this I am good at writing content, video editing, and photography. But not so professional, just at a hobby level.
 </p>
 <br>
 <h2 align="center">           📝 ~ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖 ~ 📝</h2>
@@ -53,10 +78,12 @@ Here's what you need
 </p>
 <p align="center">
 <a href="mailto:pratykash.on@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"/></a>
-<a href="https://instagram.com/pratykash.ops" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-"/></a></p>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/pratykash.ops" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 </div>
 <br>
 <div>
