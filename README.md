@@ -1,34 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<body>
+  <center>
+  <!-- <img src="https://i.imgur.com/mPdJy1T.png"/>  -->
+  <img src="https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg"/>
+<br>
+<h2 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ~</h2>
+<div align="center">
+     <img src="https://lanyard.kyrie25.me/api/1082682332047228928?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  <br>
+</div>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div>
+<br>
+<h2 align="center">~ 📇 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📇 ~</h2>
+ <br>
+<p>
+  <!-- <div align="center">
+    <img src="https://i.pinimg.com/originals/57/86/da/5786dad6164fcc3fa4d74ba962265ad7.gif" align="right">
+  </div> -->
+<!-- </div> -->
+<div>
+  <br>
+<p align="center">
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+<br>
+<br>
+<!-- Lil ABOUT MY SELF -->
+Apart from this I am good at writing content, video editing, and photography. But not so professional, at hobby level.
+</p>
+<br>
+<h2 align="center">           📝 ~ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖 ~ 📝</h2>
+  <div align="center">
+<img src="https://pa1.aminoapps.com/6118/195bf952c21c16bf9d193d2f3d4de82fb12e4e9d_00.gif" align="right" width="365.5px" height="200px">
+  </div>
+<br>
+<p align="center">Yahallo, trying to contact me<br>
+Here's what you need
+<br>
+</p>
+<p align="center">
+<a href="mailto:pratykash.on@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"/></a>
+<a href="https://instagram.com/pratykash.ops" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">~ Thanks for reading ~</h2>
+<div align="center">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1808752387859939794/32803318A2BA84A4DF9AD2E88010684A5CF4150A/?imw=630&imh=280&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
