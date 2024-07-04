@@ -15,7 +15,7 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 🦊 ~ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~ 🦊 </h2>
   <div align="center">
     <img src="https://i.pinimg.com/originals/57/86/da/5786dad6164fcc3fa4d74ba962265ad7.gif" align="right">
 <!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
@@ -85,11 +85,16 @@ Here's what you need
 </a>
 </p>
 </div>
-<br>
+<br><br><br>
 <div>
-<h2 align="center">~ Thanks for reading ~</h2>
+<h2 align="center">~ ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤 ~</h2>
 <div align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1808752387859939794/32803318A2BA84A4DF9AD2E88010684A5CF4150A/?imw=630&imh=280&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+  <p>
+  <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/javascript_intermediate%20certificate_page-0001.jpg?raw=true" width="350">
+    <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/nodejs_intermediate%20certificate_page-0001.jpg?raw=true" width="350">
+    <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/python_basic%20certificate_page-0001.jpg?raw=true" width="350">
+    <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/frontend_developer_react%20certificate_page-0001.jpg?raw=true" width="350">
+  </p>
 </div>
 <hr>
 </div>
