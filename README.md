@@ -30,7 +30,7 @@
 <b>Gender:</b> He/Him [also identifies as keyboard]
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Photography, Web Development
+<b>Hobbies:</b> Tech Stuff, Photography, Web Development
 </li>
 <li>
 <b>Currently @:</b> Highschool
