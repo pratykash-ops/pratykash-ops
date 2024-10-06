@@ -94,7 +94,7 @@ Here's what you need
   <p>
   <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/javascript_intermediate%20certificate_page-0001.jpg?raw=true" width="350">
     <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/nodejs_intermediate%20certificate_page-0001.jpg?raw=true" width="350">
-    <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/python_basic%20certificate_page-0001.jpg?raw=true" width="350">
+    <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/software_engineer_intern%20certificate_page-0001.jpg?raw=true" width="350">
     <img src="https://github.com/Pratykash-ops/Pratykash-ops/blob/main/frontend_developer_react%20certificate_page-0001.jpg?raw=true" width="350">
   </p>
 </div>
