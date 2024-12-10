@@ -21,7 +21,7 @@
 <!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
   </div>
 <li>
- <b>Name:</b> Pratykash Baghel
+ <b>Name:</b> Pratyaksh Baghel
 </li>
 <li>
 <b>Loves:</b> Anime, Books, & Coding
@@ -30,7 +30,7 @@
 <b>Gender:</b> He/Him [also identifies as keyboard]
 </li>
 <li>
-<b>Hobbies:</b> Tech Stuff, Photography, Web Development
+<b>Hobbies:</b> Tech Stuff, Photography, Web Development & Learning philosophy
 </li>
 <li>
 <b>Currently @:</b> Highschool
